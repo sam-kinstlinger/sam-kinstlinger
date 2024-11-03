@@ -54,17 +54,6 @@ If you would like to learn more, click [here](https://github.com/sam-kinstlinger
 	      		<td>ROS2, Python, Git, YOLO, TensorFlow</td>
 	      		<td>Programmed a robot with YOLOv5 for real-time object detection and utilized semantic mapping for object retention</td>
 	    	</tr>
-		<tr>
-	      		<td>
-				<a href="https://github.com/AndrewXu55/Spectro-Data-Analyzer">
-					<b>
-						Spectroscopic Data Analyzer
-					</b>
-				</a>
-			</td>
-	      		<td>NumPy, Tkinter, Matplotlib, MATLAB</td>
-	      		<td>Conduct Spectroscopic Photon Counting Analysis with a built-in UI</td>
-	    	</tr>
 	</tbody>
 </table>
 
