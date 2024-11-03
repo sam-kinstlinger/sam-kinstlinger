@@ -47,7 +47,7 @@ If you would like to learn more, click [here](https://github.com/sam-kinstlinger
 	      		<td>
 				<a href="https://github.com/sam-kinstlinger/Robotic-Semantic-Navigation-Research">
 					<b>
-						UMD Robotics Semantic Navigation
+						UMD Robotic Semantic Navigation
 					</b>
 				</a>
 			</td>
