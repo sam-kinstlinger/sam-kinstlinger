@@ -45,14 +45,14 @@ If you would like to learn more, click [here](https://github.com/sam-kinstlinger
 	    	</tr>
 	    	<tr>
 	      		<td>
-				<a href="https://github.com/AndrewXu55/OpenFDA-Recall_API">
+				<a href="https://github.com/sam-kinstlinger/Robotic-Semantic-Navigation-Research">
 					<b>
-						OpenFDA Recall API
+						UMD Robotics Semantic Navigation
 					</b>
 				</a>
 			</td>
-	      		<td>FastAPI, Streamlit, Docker</td>
-	      		<td>Create an API and Frontend that processes OpenFDA Data based on user filters. </td>
+	      		<td>ROS2, Python, Git, YOLO, TensorFlow</td>
+	      		<td>Programmed a robot with YOLOv5 for real-time object detection and utilized semantic mapping for object retention</td>
 	    	</tr>
 		<tr>
 	      		<td>
