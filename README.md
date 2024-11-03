@@ -18,7 +18,7 @@ Welcome to my page! I'm Samuel Kinstlinger from Baltimore, Maryland. I am curren
 - I'm currently learning various technologies in Computer Science through both coursework and self-exploration.
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton) and explore the realm of Computer Science.
   
-If you would like to learn more, click [here](https://github.com/AndrewXu55/AndrewXu55/blob/main/Andrew_Xu_Resume.pdf) to see my resume.
+If you would like to learn more, click [here](https://github.com/sam-kinstlinger/sam-kinstlinger/blob/main/Samuel%20Kinstlinger%20Master%20Resume%202024.docx.pdf) to see my resume.
 
 ## 🧑🏻‍💻 Open Source Projects
 <table>
