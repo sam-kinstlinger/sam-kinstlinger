@@ -15,7 +15,7 @@ Welcome to my page! I'm Samuel Kinstlinger from Baltimore, Maryland. I am curren
 
 ## ❗️ Facts about Me
 - I aspire to be a Robotics Engineer, Machine Learning Engineer, or Machine Learning Scientist.
-- I'm currently learning various technologies in Computer Science through both coursework and self-exploration.
+- I'm currently leading the authorship of a Robotics textbook for undergraduate robotics students with a strong focus on AI/ML. 
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton) and explore the realm of Computer Science.
   
 If you would like to learn more, click [here](https://github.com/sam-kinstlinger/sam-kinstlinger/blob/main/Samuel%20Kinstlinger%20Master%20Resume%202024.docx.pdf) to see my resume.
