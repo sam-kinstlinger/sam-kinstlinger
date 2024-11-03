@@ -32,7 +32,7 @@ If you would like to learn more, click [here](https://github.com/sam-kinstlinger
   	<tbody>
 		<tr>
 	      		<td>
-					<a href="https://github.com/AndrewXu55/Vehicular-Insurance-Fraud-Detection-Project">
+					<a href="https://github.com/sam-kinstlinger/Vehicular-Insurance-Fraud-Detection-Project">
 						<b>
 							Detecting Fraudulent Car Insurance Claims using Images
 						</b>
