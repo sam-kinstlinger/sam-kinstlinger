@@ -65,7 +65,7 @@ In the following section, you will find various languages, tools, and applicatio
 
 
 ### Python Libraries:
-| NumPy | Pandas | Pytorch | Tensorflow | Sklearn | OpenCV | Matplotlib | Seaborn | multiprocessing|
+| NumPy | Pandas | Pytorch | Tensorflow | Sklearn | OpenCV | Matplotlib | Seaborn | Multiprocessing|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 
 
