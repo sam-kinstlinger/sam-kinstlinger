@@ -65,13 +65,13 @@ In the following section, you will find various languages, tools, and applicatio
 
 
 ### Python Libraries:
-| NumPy | Pandas | Pytorch | Tensorflow | Sklearn | OpenCV | Matplotlib | Seaborn | Multiprocessing|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| NumPy | Pandas | Pytorch | Tensorflow | Sklearn | OpenCV | Matplotlib | Seaborn | Multiprocessing | Threading |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 
 
 ### Tools and Technologies:
-| Linux | Git | Excel | ROS2 |
-|----------|----------|----------|----------|
+| Linux | Unix | Git | Excel | ROS2 |
+|----------|----------|----------|----------|----------|
 
 
 
