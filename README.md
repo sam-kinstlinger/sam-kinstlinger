@@ -17,7 +17,7 @@ Welcome to my page! I'm Samuel Kinstlinger from Baltimore, Maryland. I am curren
 - I aspire to be a Robotics Engineer, Machine Learning Engineer, or Computer Vision Engineer.
 - I'm currently leading the authorship of a Robotics textbook for undergraduate robotics students with a strong focus on AI/ML. 
 - In my free time, I listen to music, play sports (Football, Basketball, Badminton), and explore the realm of Computer Science.
-<a href="https://github.com/sam-kinstlinger/NeRF">
+<a href="https://github.com/sam-kinstlinger/NeRF"></a>
 ## 🧑🏻‍💻 Open Source Projects
 <table>
 	<thead align="center">
